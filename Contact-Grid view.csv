@@ -1,0 +1,106 @@
+﻿PID,Fname,Lname,Works_At,State,Country,Title,Adopter,Requestor
+1,Ambrosius,Mitchell  ,"Amrita School of Engineering, Coimbatore, India",,India,Office Manager,True,False
+2,Marius,Flores,Berkeley City College,California,United States,Assistant Provost,True,False
+3,Tulio,Perez,Boise State University,Idaho,United States,Lecturer,False,True
+4,John,Huang,BRAC University,Dhaka,Bangladesh,Associate Professor,False,True
+5,Leah,Adamson,Brigham Young University,Utah,United States,Associate Liaison to Internal Technology,False,True
+6,Adam,Walker,California University of Pennsylvania,Pennsylvania,United States,Executive Assistant to the Chancellor,True,False
+7,Jessica,Collins,Caltech,California,United States,Deputy Assistant Liaison,True,False
+8,Kaelyn,Thompson,Cal Polytechnic San Luis Obispo,California,United States,Research Assistant,False,True
+9,Kimberly,Mendoza,Cal State Univ East Bay,California,United States,Adjunct Professor,False,True
+10,Maria,Wyatt,"California State University, Fresno",California,United States,Senior Lecturer,False,True
+11,Bruce,Richards,"California State University, LA",California,United States,Research Associate,False,True
+12,Brian,Mccarthy,"California State University, Monterey Bay",California,United States,PhD Student,True,False
+13,Gary,Sutton,CSU Northridge,California,United States,Deputy Assistant Liaison,False,True
+14,Daisy-May,Simmons,California State University Stanislaus,California,United States,Associate Chancellor of the Task Force on Donor Services,True,False
+15,Raja,Edwards,Carnegie Mellon University,Pennsylvania,United States,Deputy Manager of the Task Force on Investor Technology,True,False
+16,Beauden, Baldwin,City College of San Francisco,California,United States,Associate Liaison to Facilities Communications,False,True
+17,Mujtaba ,Cross,College of Charleston,South Carolina,United States,Lead Vice Chancellor of the Task Force,False,True
+18,Reef ,Hensley,Colorado State University,Colorado,United States,Research Assistant,True,False
+19,Lennie ,Macdonald,Columbia University in the City of New York,New York,United States,Senior Lecturer,False,True
+20,Nabilah ,Spooner,Coppin State University,Maryland,United States,Senior Lecturer,True,False
+21,Agnes ,Handley,Cornell University,New York,United States,Research Assistant,True,False
+22,Rivka ,Jacobs,"University of Massachusetts, Dartmouth",Massachusetts,United States,Associate Professor,False,True
+23,Shreya ,Lord,De Anza College,California,United States,Research Assistant,True,False
+24,Isis ,Hood,El Camino College,California,United States,Associate Professor,True,False
+25,Jaydon ,Merritt,Emory University,Georgia,United States,PhD Student,False,True
+26,Aida ,Allan,Florida International University,Florida,United States,Office Manager,False,True
+27,Zacharias ,Seymour,George Mason University,Virginia,United States,Associate Professor,False,True
+28,Maiya ,Dorsey,George Washington University,"Washington, D.C.",United States,Senior Lecturer,False,True
+29,Ali ,Mcneil,Green River College,Washington ,United States,Assistant Deputy Provost,False,True
+30,Aliyah ,Rose,Harvard University,Massachusetts,United States,Office Manager,False,True
+31,Hayden ,Carlson,Illinois Wesleyan University,Illinois,United States,PhD Student,False,True
+32,Maja ,Harwood,Iowa State University,Iowa,United States,Office Manager,True,False
+33,Dahlia ,Herman,Johnson C Smith University,North Carolina,United States,Adjunct Professor,False,True
+34,Shani,Pratt,Los Medanos College,California,United States,Associate Professor,True,False
+35,Troy,Mcarthur,Mid America Nazarene University,Kansas,United States,Research Assistant,True,False
+36,Katie,Lamb,"Minnesota State University, Mankato",Minnesota,United States,Office Manager,False,True
+37,Jareth,West,MIT,Massachusetts,United States,Office Manager,True,False
+38,Frida,Krause,Montana State University,Montana,United States,Research Assistant,False,True
+39,Henna,Johnson,Montgomery College,Maryland,United States,Research Assistant,False,True
+40,Trystan,Robson,Morehouse College,Georgia,United States,Adjunct Professor,False,True
+41,Lottie,Tate,Neumont College of Computer Science,Utah,United States,Research Assistant,False,True
+42,Albi,Williams,New York University,New York,United States,Research Assistant,False,True
+43,Alana,Burris,Northeastern University,Massachusetts,United States,Assistant Deputy Provost,False,True
+44,Stanislaw,Whittaker,Northern Illinois University,Illinois,United States,Senior Lecturer,False,True
+45,Whitney,Neville,Northern Kentucky University,Kentucky,United States,Associate Professor,True,False
+46,Antony,Carter,Ohio State University,Ohio,United States,PhD Student,True,False
+47,Katarina,Hussain,Oregon State University,Oregon,United States,Research Assistant,False,True
+48,Jayden,Kirk,Pacific University,Oregon,United States,Office Manager,False,True
+49,Mikey,Blair,Pennsylvania State University,Pennsylvania,United States,Adjunct Professor,True,False
+50,Marcos,Goldsmith,Purdue University,Indiana,United States,Senior Lecturer,False,True
+51,Steven,Handley,Rutgers University,New Jersey ,United States,Senior Lecturer,False,True
+52,Tamsin,Mccarthy,San Jose City College,California,United States,Associate Professor,False,True
+53,Lily-Mai,Bolton,San Jose State University,California,United States,Office Manager,True,False
+54,Diogo,Colon,Santa Clara University ,California,United States,Senior Lecturer,False,True
+55,Carol,Bloggs,Seton Hall,New Jersey ,United States,Senior Lecturer,False,True
+56,Elaine,Mustafa,Skyline College,California,United States,Research Assistant,False,True
+57,Nelly,Anderson,Shorter College,Arkansas,United States,Office Manager,True,False
+58,Rianna,Simmons,Smith College,Massachusetts,United States,Senior Lecturer,False,True
+59,Harper,Wells,Spelman College,Georgia,United States,Research Assistant,False,True
+60,Murat,Bishop,Texas A&M University,Texas,United States,Senior Lecturer,True,False
+61,Barry,Pritchard,Tufts University,Massachusetts,United States,Lecturer,False,True
+62,Izaan,Lang,Tulane University,Louisiana,United States,Assistant Deputy Provost,False,True
+63,Grayson,Marriott,United States Naval Academy,Maryland,United States,Senior Lecturer,False,True
+64,Alaina,Ford,University of Alaska Fairbanks,Alaska,United States,Associate Professor,False,True
+65,Chantal,Lyon,University of Arizona,Arizona,United States,Lecturer,False,True
+66,Kyran,Firth,"University of Birmingham, UK",Birmingham,England,Senior Lecturer,False,True
+67,Francesca,James,University of Buenos Aires,Buenos Aires,Argentina,PhD Student,False,True
+68,Aliza,Conway,University of California-Berkeley,California,United States,Adjunct Professor,False,True
+69,Dylan,Lawson,University of California-Davis,California,United States,Lecturer,False,True
+70,Blanka,Conley,University of California-Irvine,California,United States,Research Assistant,True,False
+71,Maddison,Ramsay,University of California-Los Angeles,California,United States,Lecturer,False,True
+72,Ameera,Rodgers,University of California-Merced,California,United States,Lecturer,True,False
+73,Tre,Forrest,University of California-Santa Barbara,California,United States,Senior Lecturer,False,True
+74,Christine,Reader,University of California-Santa Cruz,California,United States,PhD Student,False,True
+75,Maurice,Tomlinson,University of California-San Diego,California,United States,Senior Lecturer,True,False
+76,Dolly,Mill,University of Central Oklahoma,Oklahoma,United States,Adjunct Professor,False,True
+77,Nazifa,Kaur,University of Colorado Boulder,Colorado,United States,Lecturer,False,True
+78,Honey,Mcintyre,University of Central Florida,Florida,United States,Research Assistant,False,True
+79,Simra,Burt,University of Georgia,Georgia,United States,Adjunct Professor,False,True
+80,Bea,Marks,University of Hawai‘i at Mānoa,Hawai'i,United States,Senior Lecturer,False,True
+81,Cynthia,Berger,University of Illinois at Urbana-Champaign,Illinois,United States,Lecturer,False,True
+82,Katherine,Frost,University of Iowa,Iowa,United States,Associate Professor,True,False
+83,Tilly-Mae,Church,University of Massachussetts,Massachusetts,United States,Adjunct Professor,True,False
+84,Bella,Walker,University of Michigan- Dearborn,Michigan,United States,Assistant Deputy Provost,False,True
+85,Autumn,Landry,University of Nevada Las Vegas,Nevada,United States,Adjunct Professor,False,True
+86,Taybah,Dotson,University of New Mexico,New Mexico,United States,Lecturer,True,False
+87,Nafeesa,George,University of North Carolina- Chapel Hill,North Carolina,United States,Senior Lecturer,False,True
+88,Brenden,Mackie,University of North Texas,Texas,United States,Associate Professor,False,True
+89,Antoni,Fernandez,University of Oregon,Oregon,United States,Senior Lecturer,False,True
+90,Silas,Mccallum,University of Pennsylvania,Pennsylvania,United States,Lecturer,True,False
+91,Cem,Dickerson,University of Rhode Island,Rhode Island,United States,Associate Professor,False,True
+92,Taslima,Carter,University of Rochester,New York,United States,Senior Lecturer,False,True
+93,Millicent,Craft,University of Texas at Austin,Texas,United States,Associate Professor,False,True
+94,Klay,Haigh,University of Virginia,Virginia,United States,Senior Lecturer,True,False
+95,Amaya,Hendricks,University of Washington ,Washington ,United States,Adjunct Professor,False,True
+96,Rohaan,Leech,University of Washington Bothell,Washington ,United States,Senior Lecturer,False,True
+97,Alana,Finney,Utah State University,Utah,United States,Lecturer,False,True
+98,Jean,Hackett,Vassar College,New York,United States,Adjunct Professor,False,True
+99,Briana,Easton,Virginia Tech University,Virginia,United States,Senior Lecturer,True,False
+100,Findlay,Anderson,Warner Pacific University,Oregon,United States,Lecturer,False,True
+101,Georga,Connolly,William Rainey Harper College,Illinois,United States,Associate Professor,True,False
+102,Ted,Burrows,Yale University,Connecticut,United States,Assistant Deputy Provost,True,False
+103,Tre,Devine,Pacific University,Oregon,United States,Lecturer,False,True
+,,,,,,,,
+,,,,,,,,
